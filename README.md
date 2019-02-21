@@ -7,9 +7,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1 <h1>WAZZAP</h1>
-## Header 2 <h2>Do you know me?</h2> 
-### Header 3 <h3>My Queeeeen</h3>
+<h1>WAZZAP</h1>
+<h2>Do you know me?</h2> 
+<h3>My Queeeeen</h3>
 
 - Bulleted
 - List
